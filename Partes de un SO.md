@@ -1,6 +1,7 @@
-# PARTES DE UN SISTEMA OPERATIVO  
+# PARTES DE UN SISTEMA OPERATIVO
 
-**Kernel**  
+
+**Kernel**
 * El **núcleo o kernel**, es una parte de software programada para hacer que todas las aplicaciones y el hardware de un ordenador puedan   coordinarse para trabajar juntos. Para ello, administra la memoria y el tiempo de procesado que  usan las aplicaciones y gestiona el     acceso de los periféricos tanto de entrada como de salida.
   Ej: Cada vez que encendemos el ordenador el kernel se carga en memoria RAM y permanece ahí hasta que apagamos el equipo.  
   
