@@ -1,10 +1,45 @@
 # PARTES DE UN SISTEMA OPERATIVO  
 
 **Kernel**  
-* El **núcleo o kernel**, es una parte de software programada para hacer que todas las aplicaciones y el hardware de un ordenador puedan coordinarse para trabajar juntos. Para ello, administra la memoria y el tiempo de procesado que  usan las aplicaciones y gestiona el acceso de los periféricos tanto de entrada como de salida.
+* El **núcleo o kernel**, es una parte de software programada para hacer que todas las aplicaciones y el hardware de un ordenador puedan   coordinarse para trabajar juntos. Para ello, administra la memoria y el tiempo de procesado que  usan las aplicaciones y gestiona el     acceso de los periféricos tanto de entrada como de salida.
   Ej: Cada vez que encendemos el ordenador el kernel se carga en memoria RAM y permanece ahí hasta que apagamos el equipo.  
   
   ![alt text](https://arquicompuv.files.wordpress.com/2013/08/download.jpg)  
+  
+**X11**
+
+ * X11 es un protocolo que permite la interacción gráfica en red entre un usuario y uno o más ordenadores, es el encargado de mostrar la   información gráfica de forma totalmente independiente del sistema operativo.  
+ 
+**Wayland**  
+
+ * El Wayland es un protocolo que proporciona un método para que los gestores de composición de ventanas se comuniquen directamente con   las aplicaciones y el hardware de vídeo.  
+
+**Windows Manager**
+
+ * El gestor de ventanas es el conjunto de programas  que hace que el usuario pueda interactuar con el S.0 sin comandos, lo hace atraves   de ventanas y interficies gráficas.
+
+**Display Manager (Gestor de login)**
+
+  * El gestor de login es una interfaz gráfica que se muestra al final del proceso de arranque, es el momento en el que el sistema           operativo nos pide nuestra password. Hay diferentes gestores de login.  
+    * Console Display Manager
+    * Gnome Display Manager
+    * XFCE
+    * LDXE
+    * OpenBox
+    * LightDM  
+    
+**Escritorio**
+
+  * El escritorio es un conjunto de botones, íconos, ventanas, fuentes e imágenes que hace que el usuario pueda interactuar con el S.O  
+  **HAY VARIOS ESCRITORIOS**
+    * Gnome
+    * Mate
+    * KDE
+    
+    
+**ARQUITECTURA ONION**  
+
+![alt text](https://lh3.googleusercontent.com/kO_2VgIqj36_tkkpRV4b-eCv3kjfF4BFgAD5NrqqNpouy6pdulsznlFXx9Xykzo0QQAJ44Spa0rVjrJ1r0f4=w1366-h631) 
 
 **GUI & CLI**  
 
@@ -23,7 +58,7 @@
   Tenemos todo tipos de **GUI**, para los usuarios que mas les gusta verlo visual, hasta con un ordenador que tenga pocos recursos.  
   * Sistemas operativos **"Windows"** todos disponen de **GUI**.  
   
-  Aquí tenemos unos cuantos **GUI** de **Linux**  
+  Aquí tenemos unos cuantos escritorios **GUI** de **Linux**  
   * Mate  
   * LDXE  
   * XFCE  
