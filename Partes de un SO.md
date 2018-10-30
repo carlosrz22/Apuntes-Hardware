@@ -16,7 +16,7 @@
 
 **Windows Manager**
 
- * El gestor de ventanas es el conjunto de programas  que hace que el usuario pueda interactuar con el S.0 sin comandos, lo hace atraves   de ventanas y interficies gráficas.
+ * El gestor de ventanas es el conjunto de programas  que hace que el usuario pueda interactuar con el S.0 sin comandos, lo hace a través de ventanas e interfaces gráficas.
 
 **Display Manager (Gestor de login)**
 
@@ -49,13 +49,13 @@
   ![alt text](https://i0.wp.com/thetechhacker.com/wp-content/uploads/2017/01/What-is-GUI-Graphical-user-Interface.jpg)
 
 **CLI**
-* Es una **Interfaz Gráfica de Usuario** (o CLI, por sus iniciales en inglés) es un método para manipular con instrucciones escritas al programa que esta debajo, la información que se tramita es la mas simple posible incluso más que el texto crudo.  
+* Es una **Interfaz Gráfica de Usuario** (o CLI, por sus iniciales en inglés) es un método para manipular con instrucciones escritas al programa que está debajo, la información que se tramita es la más simple posible incluso más que el texto crudo.  
   A esta interfaz se le acostumbra llamar Consola de sistema, CMD, Terminal.  
   
   ![alt text](https://bandageek.com/wp-content/uploads/2016/09/vim.png)  
   
 **TIPOS DE GUI**  
-  Tenemos todo tipos de **GUI**, para los usuarios que mas les gusta verlo visual, hasta con un ordenador que tenga pocos recursos.  
+  Tenemos todo tipos de **GUI**, para los usuarios que más les gusta verlo visual, hasta con un ordenador que tenga pocos recursos.  
   * Sistemas operativos **"Windows"** todos disponen de **GUI**.  
   
   Aquí tenemos unos cuantos escritorios **GUI** de **Linux**  
@@ -78,10 +78,11 @@ También tenemos **Gnome** pero no es muy recomendable ya que su peso es bastant
 
 **¿Qué Sistema Operativo utilizar?**
 
-Bueno hay varios **Sistemas Operativos** y va a gustos de cada usuario, no es algo qque sea una regla general.
+Bueno hay varios **Sistemas Operativos** y va a gustos de cada usuario, no es algo que sea una regla general.
 
 **FEDORA**, sirve muy bien para **workstation**, pero no es GNU/GPL
 
 **CENTOS**, es muy útil para **seguridad**
 
 **DEBIAN**, sirve para **servidor** como **workstation** ya que cumple con un código GNU/GPL
+
