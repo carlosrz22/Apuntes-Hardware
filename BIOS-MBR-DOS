@@ -1,2 +1,1 @@
-* **MBR BIOS DOS:** El tamaño máximo 2TB por partición.  
-* **UEFI-GPT:** El tamaño máximo de partición no existe practicamente ya que es un numero altisimo concretamente un máximo de 18 exabytes (~18,8 millones de terabytes) de espacio.
+
