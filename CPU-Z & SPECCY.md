@@ -8,7 +8,7 @@
 
 
 Aquí esta la captura de pantalla de la aplicación **Speccy** 
-![alt text](https://lh3.googleusercontent.com/ELzgMHHUPa0kalN8HblkAV0HQxhx-AMuE-oTFwJGY5YRmcUlbzq1b0JxFmI0TJQ6v8PcZiUrfsoIN1ZiYoHk=w1366-h631-rw)  
+![alt text](https://image.ibb.co/iZFnQ0/speccy.jpg)  
  
 
 **Instalación:**  
