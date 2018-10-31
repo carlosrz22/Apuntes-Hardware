@@ -1,5 +1,5 @@
   Aquí esta la captura de pantalla de la aplicación **CPU-Z**  
-![alt text](https://lh6.googleusercontent.com/3lnIfte7-hauJ3oLZVnG4QucBpE8e2bMxnmdMtPp4KkGcdBixH5zoiXrGcladM4DTcLim6Ims2PoL5z5n33u=w1366-h631-rw)
+![alt text](https://image.ibb.co/m5g8yL/CPU-Z.jpg)
 
 **Instalación:**  
 * Nos dirijimos a "https://www.cpuid.com/softwares/cpu-z.html" y lo descargamos, ejecutamos el .exe y lo instalamos.  
