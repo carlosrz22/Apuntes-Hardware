@@ -40,7 +40,7 @@
     
 **ARQUITECTURA ONION**  
 
-![alt text](https://lh3.googleusercontent.com/kO_2VgIqj36_tkkpRV4b-eCv3kjfF4BFgAD5NrqqNpouy6pdulsznlFXx9Xykzo0QQAJ44Spa0rVjrJ1r0f4=w1366-h631) 
+![alt text](https://image.ibb.co/eGfU50/r-X6-Cel-Oo-W2xek-Ob-0j-Kuj-RLA-3-SO-Ilu-ZH3-Btkdro-Qd-Nr8vji-Ge0-ENb-AKly-FMsg-PR2zpr6-AKib-Tytduc-Myr-P-w1366-h631.jpg) 
 
 **GUI & CLI**  
 
