@@ -6,5 +6,5 @@
 
 ![alt text](https://image.ibb.co/bSmHsf/Captura.jpg)  
 
-Por defecto viene con un interbalo de 2s, para cambiarlo lo único que hay que hacer es escribir el siguiente comando:  
+Por defecto viene con un intervalo de 2s, para cambiarlo lo único que hay que hacer es escribir el siguiente comando:  
   - **watch -n 1 df -h**
