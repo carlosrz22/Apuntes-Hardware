@@ -8,4 +8,4 @@ FDisk = **command**
    
    
 # Comandos Básicos FDISK  
-![alt text](https://lh6.googleusercontent.com/xjH3Vqtb2iQS3uwFNf1VAtP6Zi3rccbp4Plnpn81FfWWmEwfZWPp33bWC1bMBMk7MoZEUfonWSgLuz7y4mut=w1366-h631) 
+![alt text](https://image.ibb.co/cYE8Xf/per-Rs-Rc-B7-OAt87-Znfqhl-4-N32-GUCvu-Jaz0-DOWAr-NLko-H2kd-CMZhkrc-XJ9-Fp-LM-Zoehfmp-Uk3gy-V6879q-QJ-w1366-h631.jpg) 
