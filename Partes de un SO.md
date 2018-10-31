@@ -87,3 +87,4 @@ Bueno hay varios **Sistemas Operativos** y va a gustos de cada usuario, no es al
 
 **DEBIAN**, sirve para **servidor** como **workstation** ya que cumple con un código GNU/GPL
 
+
