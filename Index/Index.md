@@ -3,15 +3,15 @@
 
 2. Sistemas de particiones
 
-- Reglas de partición en Windows
+ - Reglas de partición en Windows
 
 3. Formas de arrancar
 
-- USB/DVD
+ - USB/DVD
 
-- DD
+ - DD
 
-- PXE
+ - PXE
 
 4. Configuración BIOS
 
