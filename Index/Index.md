@@ -104,7 +104,7 @@
 
 27. Repaso particiones
 
-28.Sistema Operativo Linux
+28. Sistema Operativo Linux
 
 - Kernel
 - Run level
@@ -113,15 +113,15 @@
 - Display Manager (GDM y Lightdm)
 - Escritorio
 
-29.CLI, GUI i TUI
+29. CLI, GUI i TUI
 
-30.Instalar Openbox
+30. Instalar Openbox
 
-31.Captura configuración de red en Windows 
+31. Captura configuración de red en Windows 
 
-32.Comando Watch, ionice, Ctrl+Z, bg, parametro & y significado ~
+32. Comando Watch, ionice, Ctrl+Z, bg, parametro & y significado ~
 
-33.Práctica fdisk desde archivo
+33. Práctica fdisk desde archivo
 
 - MBR
 - GPT
