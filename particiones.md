@@ -11,10 +11,10 @@ Para crear un sistema de archivos dentro de nuestra partición lo aremos con **m
 ![alt text](https://i.ibb.co/9nv6f93/sistema-de-archivos-Particiones.png)
 
 Tenemos diferentes sistemas de archivos:  
-- **FAT 32** Es un tipo de sistema de archivos FAT. El tamaño máximo de un archivo en FAT32 es de 4 gigabytes.
+- **FAT 32** Es un tipo de sistema de archivos FAT. El tamaño máximo de un archivo en FAT32 es de **4 gigabytes**.
 - **NTFS** Tiene más permisos y configuraciones de seguridad que FAT 32. Además no tiene un límite de tamaño de archivos.
 
-Después de haber terminado de hacer las particiones tendremos que utilizar el **partprobe** és un comando para leer el disco duro y que nos reconozca las particiones, si no tendremos que reiniciar el ordenador y perderemos tiempo.
+Después de haber terminado de hacer las particiones tendremos que utilizar el **partprobe** és un comando que nos lee el disco duro y que reconoze las particiones, si no tendremos que reiniciar el ordenador y seria una perdida de tiempo.
 
 Con el **partprobe** és el método que tenemos que utilizar siempre y que será útil.
 Pero tenemos un **apaño** que si por una razón u otra no nos va el **partprobe** tenemos el:
@@ -25,18 +25,18 @@ Y nos quedará guardado en **mapper** y para entrar deberemos de hacer **ls "dis
 
 # Comandos Particiones
 
-**a**  partición boot
+**a**  *Partición boot
 
-**n**  creamos partición
+**n**  *Creamos partición
 
-**l**  partición lógica
+**l**  *Partición lógica
 
-**p**  partición primaria 
+**p**  *Partición primaria 
 
-**e**  partición extendida
+**e**  *Partición extendida
 
-**t**  cambiamos tipo 
+**t**  *Cambiamos tipo 
 
-**82** swap
+**82** *Swap
 
-**7**  ntfs 
+**7**  *Ntfs
