@@ -25,18 +25,18 @@ Y nos quedará guardado en **mapper** y para entrar deberemos de hacer **ls "dis
 
 # Comandos Particiones
 
-**a**  *Partición boot
+**a**  Partición boot
 
-**n**  *Creamos partición
+**n**  Creamos partición
 
-**l**  *Partición lógica
+**l**  Partición lógica
 
-**p**  *Partición primaria 
+**p**  Partición primaria 
 
-**e**  *Partición extendida
+**e**  Partición extendida
 
-**t**  *Cambiamos tipo 
+**t**  Cambiamos tipo 
 
-**82** *Swap
+**82** Swap
 
-**7**  *Ntfs
+**7**  Ntfs
