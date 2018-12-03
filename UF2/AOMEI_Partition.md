@@ -3,4 +3,4 @@
 
 - Esta herramienta está preparada para funcionar en cualquier versión moderna de Windows (incluso en Windows 10) y cuenta con una serie de opciones y características para trabajar con unidades SSD.  
 - Si queremos recontruir el MBR esta herramienta no va a ser de las más apropiadas.  
-[
+![alt text](https://i.ibb.co/fSF4rTj/AOMEI-rebuild-GPT.jpg)  
